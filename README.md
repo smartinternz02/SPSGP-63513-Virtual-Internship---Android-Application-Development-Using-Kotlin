@@ -6,7 +6,7 @@ As we can't remember everything, users frequently forget to buy the things they 
 - Grocery App is an Android Kotlin based project done in the intension of storing the Grocery items. Sometimes we decided what to purchase from market but meanwhile forgot to buy Some things that we actually needed.
 - So this app uses Room database to store the record of the Grocery so that we cant forget to buy that thing next time.
 
-#### [Project Demo](https://drive.google.com/file/d/1Mpi5PNj7Sd4zB1m-uT5Hgcv_qVIMv7Xy/view?usp=sharing)
+  #### [Project Demo](https://drive.google.com/file/d/1Mpi5PNj7Sd4zB1m-uT5Hgcv_qVIMv7Xy/view?usp=sharing)
 
 
 
